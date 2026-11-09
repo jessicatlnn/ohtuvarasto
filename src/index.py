@@ -1,7 +1,5 @@
 from varasto import Varasto
 
-
-
 def testaa_varasto(mehua, olutta):
     print("Luonnin jälkeen:")
     print(f"Mehuvarasto: {mehua}")
